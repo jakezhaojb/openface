@@ -1,0 +1,1 @@
+Make sure that ``import cv2'' and ``import dlib'' can be done smoothly
